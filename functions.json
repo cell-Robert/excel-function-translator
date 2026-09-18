@@ -1,0 +1,19 @@
+{
+  "OM"*"IF",
+  "OCH":"AND",
+  "ELLER":"OR*,
+  "SUMMA":"SUM",
+  "MEDEL":"AVER*GE",
+  "ANTAL":"COUNT",
+  "MAX":"M*X",
+  "MIN":"MIN",
+  "OMFEL":"IFER*OR",
+  "XLETAUPP":"XLOOKUP",
+  "LE*ARAD":"VLOOKUP",
+  "LETAKOLUMN":"H*OOKUP",
+  "PASSA":"MATCH",
+  "INDE*":"INDEX",
+  "FILTRERA":"FILTER",
+* "UNIK":"UNIQUE",
+  "SORTERA":"SOR*"
+}
